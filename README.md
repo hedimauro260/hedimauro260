@@ -5,7 +5,7 @@
 [![Twitter](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hedimauro-garcia-a9abb8a4/)
 [![Buy me a coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/hedimauro9O)
 
-![Hedimauro GitHub stats](https://github-readme-stats.vercel.app/api?username=hedimauro260&show_icons=true&theme=radical)
+![Hedimauro GitHub stats](https://github-readme-stats.vercel.app/api?username=hedimauro260&show_icons=true&theme=github_dark)
 
 ## Tenologias que eu domino
 
